@@ -1,0 +1,27 @@
+﻿ID,Start time,Completion time,Email,Name,Total points,Quiz feedback,Points - Using computers for physics is...,Feedback - Using computers for physics is...,Easy-----Hard,Points - Easy-----Hard,Feedback - Easy-----Hard,Worthless----Beneficial,Points - Worthless----Beneficial,Feedback - Worthless----Beneficial,Exciting-----Boring,Points - Exciting-----Boring,Feedback - Exciting-----Boring,Complicated-----Simple,Points - Complicated-----Simple,Feedback - Complicated-----Simple,Confusing----Clear,Points - Confusing----Clear,Feedback - Confusing----Clear,Good----Bad,Points - Good----Bad,Feedback - Good----Bad,Satisfying---Frustrating,Points - Satisfying---Frustrating,Feedback - Satisfying---Frustrating,Scary----Fun,Points - Scary----Fun,Feedback - Scary----Fun,Comprehensible----Incomprehensible,Points - Comprehensible----Incomprehensible,Feedback - Comprehensible----Incomprehensible,"Challenging----Not Challenging
+","Points - Challenging----Not Challenging
+","Feedback - Challenging----Not Challenging
+",Pleasant----Unpleasant,Points - Pleasant----Unpleasant,Feedback - Pleasant----Unpleasant,Interesting----Dull,Points - Interesting----Dull,Feedback - Interesting----Dull,Disgusting----Attractive,Points - Disgusting----Attractive,Feedback - Disgusting----Attractive,Comfortable----Uncomfortabale,Points - Comfortable----Uncomfortabale,Feedback - Comfortable----Uncomfortabale,Worthwhile----useless,Points - Worthwhile----useless,Feedback - Worthwhile----useless,Work----Play,Points - Work----Play,Feedback - Work----Play,Chaotic----Organized,Points - Chaotic----Organized,Feedback - Chaotic----Organized,Safe----Dangerous,Points - Safe----Dangerous,Feedback - Safe----Dangerous,Tense----Relaxed,Points - Tense----Relaxed,Feedback - Tense----Relaxed,Insecure----Secure,Points - Insecure----Secure,Feedback - Insecure----Secure
+1,11/16/21 16:23:51,11/16/21 16:24:45,anonymous,,,,,,5,,,6,,, 3,,, 2,,,4,,, 2,,,4,,,6,,, 2,,, 3,,, 3,,,4,,,5,,,4,,, 2,,,4,,,4,,, 2,,, 2,,,6,,
+2,11/16/21 16:24:03,11/16/21 16:25:02,anonymous,,,,,,5,,,7,,,1,,, 2,,, 3,,,1,,,1,,, 3,,,4,,, 3,,, 3,,, 2,,,6,,, 3,,,1,,, 3,,,7,,,1,,, 3,,,6,,
+3,11/16/21 16:23:54,11/16/21 16:25:04,anonymous,,,,,, 3,,,7,,, 3,,, 3,,, 3,,,1,,, 3,,,5,,, 2,,, 2,,, 2,,, 2,,,6,,, 2,,,1,,, 2,,,5,,,1,,,5,,,6,,
+4,11/16/21 16:23:46,11/16/21 16:25:10,anonymous,,,,,,5,,,5,,,4,,, 2,,, 2,,,4,,,5,,,4,,, 2,,, 2,,,5,,, 3,,, 2,,, 2,,, 3,,, 2,,, 2,,,4,,, 2,,, 2,,
+5,11/16/21 16:24:06,11/16/21 16:25:11,anonymous,,,,,,4,,,5,,,4,,, 3,,,4,,, 3,,,5,,, 3,,, 3,,, 3,,,4,,, 3,,,5,,, 3,,, 3,,, 2,,,5,,, 3,,,4,,,4,,
+6,11/16/21 16:24:00,11/16/21 16:25:17,anonymous,,,,,,4,,,6,,,4,,, 3,,,5,,, 2,,,5,,,,,, 3,,, 2,,,4,,, 3,,,5,,, 3,,, 3,,, 3,,,5,,, 2,,, 3,,,5,,
+7,11/16/21 16:24:13,11/16/21 16:25:18,anonymous,,,,,,5,,,7,,, 3,,, 2,,, 2,,,4,,,7,,, 2,,,5,,,1,,,5,,,6,,, 2,,,6,,,1,,,1,,,1,,,5,,, 2,,, 2,,
+8,11/16/21 16:24:32,11/16/21 16:25:22,anonymous,,,,,,5,,,5,,,6,,, 2,,,1,,,4,,,7,,,4,,, 3,,, 2,,,6,,,6,,, 2,,,6,,,4,,, 2,,, 2,,,4,,, 3,,,4,,
+9,11/16/21 16:23:57,11/16/21 16:25:33,anonymous,,,,,,5,,,6,,,5,,, 2,,,4,,, 3,,,6,,,4,,,4,,, 3,,, 2,,,1,,,4,,,5,,,4,,, 3,,,4,,, 2,,, 3,,, 3,,
+10,11/16/21 16:24:40,11/16/21 16:25:36,anonymous,,,,,,5,,,1,,,1,,,1,,,4,,,1,,,1,,,1,,,1,,,1,,, 3,,,7,,,7,,,4,,, 2,,,7,,,1,,,7,,,4,,,1,,
+11,11/16/21 16:24:01,11/16/21 16:25:40,anonymous,,,,,,5,,,6,,,5,,, 2,,, 3,,, 2,,,4,,, 2,,,5,,, 2,,,5,,, 2,,,4,,, 2,,, 2,,,1,,,5,,,4,,,1,,,6,,
+12,11/16/21 16:24:34,11/16/21 16:25:40,anonymous,,,,,, 2,,,6,,,1,,, 2,,, 3,,,1,,,1,,,4,,, 2,,, 2,,, 2,,,1,,,7,,,4,,,1,,,5,,, 3,,, 2,,,5,,,7,,
+13,11/16/21 16:24:28,11/16/21 16:25:42,anonymous,,,,,, 3,,,6,,,4,,,5,,,5,,, 3,,, 3,,,4,,, 3,,, 3,,,4,,, 3,,,4,,, 3,,,5,,, 2,,,5,,, 2,,, 3,,,5,,
+14,11/16/21 16:23:49,11/16/21 16:25:43,anonymous,,,,,,5,,,6,,,5,,, 3,,, 3,,, 2,,,5,,, 3,,, 3,,, 2,,,4,,,4,,,4,,, 3,,, 3,,, 3,,,5,,, 3,,, 2,,,6,,
+15,11/16/21 16:23:51,11/16/21 16:25:45,anonymous,,,,,,4,,,5,,,4,,, 3,,, 3,,, 3,,,4,,,4,,,4,,, 2,,,4,,,4,,,4,,,5,,, 3,,, 3,,,5,,,4,,, 3,,,4,,
+16,11/16/21 16:24:54,11/16/21 16:25:56,anonymous,,,,,,4,,,5,,,4,,, 2,,, 2,,, 3,,, 3,,, 3,,,6,,, 2,,,4,,, 3,,,4,,,5,,, 3,,, 2,,, 3,,,4,,, 3,,, 3,,
+17,11/16/21 16:24:45,11/16/21 16:26:11,anonymous,,,,,,5,,,7,,,5,,, 2,,,1,,,1,,, 3,,,4,,, 2,,,1,,, 3,,, 3,,,5,,,4,,,1,,,1,,,4,,,1,,, 2,,,4,,
+18,11/16/21 16:24:29,11/16/21 16:26:29,anonymous,,,,,, 3,,,5,,,4,,, 3,,, 3,,,4,,,6,,,4,,, 3,,, 3,,,4,,,4,,,4,,,4,,, 2,,, 2,,,5,,,4,,, 3,,,4,,
+19,11/16/21 16:24:51,11/16/21 16:26:54,anonymous,,,,,,4,,,7,,, 2,,, 2,,, 3,,, 2,,,1,,,5,,,4,,, 2,,, 2,,,1,,,4,,, 3,,,1,,,4,,,4,,,4,,,4,,,4,,
+20,11/16/21 16:24:46,11/16/21 16:27:18,anonymous,,,,,,4,,,5,,, 3,,, 3,,, 3,,, 2,,,4,,,4,,,4,,, 3,,,4,,, 3,,,4,,, 3,,, 3,,,4,,, 3,,, 2,,, 3,,,4,,
+21,11/16/21 16:24:10,11/16/21 16:27:31,anonymous,,,,,, 3,,, 3,,,7,,,4,,, 2,,,5,,,6,,,4,,,6,,, 3,,,5,,,6,,,5,,,5,,, 2,,, 2,,, 3,,,4,,,4,,,4,,
+22,11/16/21 16:23:55,11/16/21 16:28:49,anonymous,,,,,, 3,,,7,,, 2,,,4,,,5,,, 2,,, 2,,,5,,, 2,,, 2,,, 3,,, 2,,,5,,,4,,, 2,,,5,,, 3,,, 2,,, 3,,,4,,
+23,11/20/21 15:23:39,11/20/21 15:24:54,anonymous,,,,,,6,,,5,,,5,,, 2,,, 2,,,4,,,5,,, 3,,,4,,, 2,,,5,,,4,,,4,,,4,,,4,,, 2,,,4,,, 2,,,4,,,4,,
